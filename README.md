@@ -1,7 +1,7 @@
 <div align="center">
  <a href="https://github.com/austintools/SFVIP-Player/releases">
- <img src="https://github.com/user-attachments/assets/4213699d-2adb-469c-9b0c-738851bbfcc3"></a>
-  
+ <img src="https://github.com/user-attachments/assets/c89432b3-ab41-43ed-9fe3-bd9087b0d42f"></a>
+
 <h1 align="center">SFVIP-Player</h1>
 
 ## Overview 
